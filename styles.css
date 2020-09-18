@@ -18,3 +18,9 @@ h2 {
     text-align: center;
     margin-top: 80px;
 }
+
+@media only screen and (max-device-width: 768px) {
+    .centered-section {
+        margin: 50% 10% 0 10%;
+    }
+}
