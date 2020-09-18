@@ -1,1 +1,1 @@
-# My personal website
+# Development mode for my personal website
